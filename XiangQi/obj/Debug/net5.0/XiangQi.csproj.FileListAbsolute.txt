@@ -1,0 +1,16 @@
+C:\Users\86158\Desktop\C#\XiangQi\bin\Debug\net5.0\XiangQi.exe
+C:\Users\86158\Desktop\C#\XiangQi\bin\Debug\net5.0\XiangQi.deps.json
+C:\Users\86158\Desktop\C#\XiangQi\bin\Debug\net5.0\XiangQi.runtimeconfig.json
+C:\Users\86158\Desktop\C#\XiangQi\bin\Debug\net5.0\XiangQi.runtimeconfig.dev.json
+C:\Users\86158\Desktop\C#\XiangQi\bin\Debug\net5.0\XiangQi.dll
+C:\Users\86158\Desktop\C#\XiangQi\bin\Debug\net5.0\ref\XiangQi.dll
+C:\Users\86158\Desktop\C#\XiangQi\bin\Debug\net5.0\XiangQi.pdb
+C:\Users\86158\Desktop\C#\XiangQi\obj\Debug\net5.0\XiangQi.csproj.AssemblyReference.cache
+C:\Users\86158\Desktop\C#\XiangQi\obj\Debug\net5.0\XiangQi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86158\Desktop\C#\XiangQi\obj\Debug\net5.0\XiangQi.AssemblyInfoInputs.cache
+C:\Users\86158\Desktop\C#\XiangQi\obj\Debug\net5.0\XiangQi.AssemblyInfo.cs
+C:\Users\86158\Desktop\C#\XiangQi\obj\Debug\net5.0\XiangQi.csproj.CoreCompileInputs.cache
+C:\Users\86158\Desktop\C#\XiangQi\obj\Debug\net5.0\XiangQi.dll
+C:\Users\86158\Desktop\C#\XiangQi\obj\Debug\net5.0\ref\XiangQi.dll
+C:\Users\86158\Desktop\C#\XiangQi\obj\Debug\net5.0\XiangQi.pdb
+C:\Users\86158\Desktop\C#\XiangQi\obj\Debug\net5.0\XiangQi.genruntimeconfig.cache
